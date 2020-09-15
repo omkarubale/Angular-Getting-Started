@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular-getting-started-4b854": {
+      "hosting": {
+        "Angular-getting-started": [
+          "angular-getting-started-4b854"
+        ]
+      }
+    }
+  }
+}
